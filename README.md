@@ -5,16 +5,6 @@
   <img src= "https://raw.githubusercontent.com/Davi4076018/ESP32_LittleFS_Manipulando_Arquivos/main/readme-image/esp32.png" width = "250px"></a>
 </p>
 
-
-| Função  | Descrição |
-| :---: | ------------- |
-| **void printDirectory(File dir);** |  |
-| **void excluirArquivo(String fileName);** |  |
-| **void criaArquivoVazio(String fileName);** |  |
-| **void imprimeArquivo(String fileName);** |  |
-| **void escreveArquivo(String fileName, String coteudo);** |  |
-| **void anexarArquivo(String fileName, String coteudo);** |  |
-
 ## Autor ⌨️
 
 <p align="center">
