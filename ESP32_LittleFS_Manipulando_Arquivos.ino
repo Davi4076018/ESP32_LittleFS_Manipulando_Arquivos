@@ -15,7 +15,7 @@ void setup()
  
     delay(500);
  
-    Serial.println(F("Inizializing FS..."));
+    Serial.println(F("Iniciando o FS..."));
     if (LittleFS.begin()){
         Serial.println(F("LittleFS Iniciado com sucesso"));
     }else{
